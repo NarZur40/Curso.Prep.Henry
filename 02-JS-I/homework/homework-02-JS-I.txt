@@ -1,0 +1,19 @@
+02 - JS - I
+Homework 
+
+1. Explicar los siguientes conceptos, de tal manera que una persona de 12 años lo comprenda.
+
+Variables 
+Valor que se le brinda u otorga a algo para ser utilizado más adelante.
+
+Strings
+tipo de dato que almacena solamente cadenas de texto (letras) y para efectos de identificarles se deben de colocar entre comillas.
+
+Funciones (argumentos,'return')
+Es un tipo de objeto utilizado para realizar operaciones durante la vida de un programa, tiene la particularidad que puede ser llamado en más de una ocasión; puede recibir argumentos y/o devolver un resultado.
+
+Declaraciones 'if'
+operador condicional 'true' o 'false' sobre algun argumento que al cumplirse determina el flujo o dirección de un función y su resultado.
+
+Valores booleanos ('true','false')
+tipo de dato en que solo se indica dos estados 0 o 1, lo ques igual a encendido o apagado pero que se representa para la programación con las palabras en ingles 'true' verdadero o 'false' falso.
