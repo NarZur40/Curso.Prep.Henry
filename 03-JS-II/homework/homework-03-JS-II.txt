@@ -1,0 +1,17 @@
+03 - JS - II
+Homework 
+realizada por jose francisco narvaez
+
+1. Explicar los siguientes conceptos, de tal manera que una persona de 12 a�os lo comprenda.
+
+For
+Bucle o iteraci�n de instrucciones que se ejecutan una cantidad determinada de veces.
+
+&&
+Operador l�gico Y o AND en ingles nos permite evaluar m�s de una expresi�n donde TODAS deben de ocurrir para obtener un resultado verdadero y as� ejecutar las operaciones debajo de ella.
+
+||
+Operador l�gico O u OR en ingles nos permite evaluar m�s de una expresi�n donde con tan solo se cumpla una de las expresiones nuestro resultado sera verdadero y ejecutara las tareas debajo de ella.
+
+!
+operador No o NOT en ingles se usa para negar o el resultado obtenido al momento de evaluar una o m�s empresiones dependiendo del alcance que se le haya asignado al operador.
