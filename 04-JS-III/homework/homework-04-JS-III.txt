@@ -1,0 +1,10 @@
+04 - JS - III
+Homework 
+realizada por jose francisco narvaez
+
+1. Explicar los siguientes conceptos, de tal manera que una persona de 12 a�os lo comprenda.
+
+Arrays
+Los arreglos o arrays son listas de objetos, es decir puede contener objetos de tipo cadena, numerico, booleanos, funciones u otro arreglo si asi se necesitara.
+Los arreglos pueden estar en contaste cambio en su contenido.
+La forma de representarlo es con nombre del arreglo seguido de corchetes.
